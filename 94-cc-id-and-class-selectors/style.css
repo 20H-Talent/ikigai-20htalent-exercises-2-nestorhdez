@@ -1,16 +1,10 @@
 /* Complete the challenge by writing CSS below */
-body{
-    text-align: center;
-}
+
 
 .main-header{
     background-color: orange;
 }
 
-p{
-    color: lightslategrey;
-}
-
-div{
-    background-color: lightblue;
+.main-heading{
+    font-size: 72px;
 }
