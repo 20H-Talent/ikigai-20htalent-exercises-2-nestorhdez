@@ -3,6 +3,11 @@ body{
     text-align: center;
 }
 
+header{
+    background-color: orange;
+    color: white;
+}
+
 p{
     color: lightslategrey;
 }
