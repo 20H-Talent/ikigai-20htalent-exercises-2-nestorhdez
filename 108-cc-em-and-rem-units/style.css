@@ -12,3 +12,6 @@ header {
     font-size: 5.625rem;
   }
   
+  h2 {
+      font-size: 3.3125em; /* 53px / 16px */
+  }
