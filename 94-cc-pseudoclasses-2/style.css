@@ -2,3 +2,7 @@
 a:link{
     color: orange;
 }
+
+a:visited{
+    color:steelblue;
+}
