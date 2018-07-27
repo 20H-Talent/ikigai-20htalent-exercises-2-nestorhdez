@@ -1,5 +1,6 @@
 /* Complete the challenge by writing CSS below */
 
 .wildlife {
-    background-image: url(img/bear.jpg)
+    background-image: url(img/bear.jpg);
+    background-repeat: no-repeat;
 }
